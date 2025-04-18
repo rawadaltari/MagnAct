@@ -12,5 +12,5 @@ export default {
     },
   },
   plugins: [],
-  base:'https://rawadaltari.github.io/MagnAct/'
+  base:'/MagnAct/'
 } satisfies Config
