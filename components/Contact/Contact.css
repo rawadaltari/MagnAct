@@ -1,0 +1,32 @@
+section {
+    left: 50%;
+    transform: translateX(-50%);
+    width: 640px;
+    max-width: 90vw;
+  }
+  
+  @media (max-width: 768px) {
+    section {
+      top: 100px !important;
+      gap: 1.5rem !important;
+    }
+  
+    section h2 {
+      font-size: 24px !important;
+    }
+  
+    section div {
+      width: 100% !important;
+    }
+  
+    input,
+    textarea {
+      font-size: 14px !important;
+      height: auto !important;
+    }
+  
+    button {
+      width: 100% !important;
+      max-width: 220px !important;
+    }
+  }
