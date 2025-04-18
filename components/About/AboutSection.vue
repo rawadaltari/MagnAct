@@ -5,7 +5,7 @@
       <div class="relative w-full h-full">
         <div class="absolute w-[60%] h-[60%] top-[25%] left-[30%] bg-[#8d55a3] rounded-full rotate-[-20deg] blur-[130px] opacity-60" />
         <img
-          src="img/111111 (1).png"
+          src="/img/12.png"
           alt="3D Decoration"
           class="absolute w-[70%] h-[70%] top-[15%] left-[15%] rotate-[-140deg] object-contain"
         />
@@ -14,7 +14,7 @@
 
     <!-- خلفية النقاط -->
     <img
-      src="img/Dot grid.svg"
+      src=""
       alt="Dot Grid"
       class="absolute inset-0 w-full h-full object-cover opacity-20 z-0"
     />

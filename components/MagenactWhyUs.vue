@@ -7,7 +7,7 @@
           <img
             class="absolute w-full h-full object-cover"
             alt="Dot grid"
-            src="img/Dot grid.svg"
+            src=""
           />
         </div>
 
@@ -19,14 +19,14 @@
           <img
             class="absolute w-[510px] h-[558px] object-contain"
             alt="Abstract element"
-            src="img/111111.png"
+            src="/img/111111.png"
           />
         </div>
 
         <img
           class="absolute right-0 bottom-0 h-[600px] object-cover z-0"
           alt="Realistic abstract"
-          src="img/Realistic Abstract 3 (2).png"
+          src="/img/Realistic-Abstract-3.png"
         />
 
         <!-- Main content -->

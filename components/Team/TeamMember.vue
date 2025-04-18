@@ -7,13 +7,13 @@
       >
         <img
           class="absolute w-full h-full object-cover"
-          alt="Dot grid"
-          src="img/Dot grid.svg"
+          alt=""
+          src=""
         />
         <img
           class="absolute w-full h-full object-cover"
           alt="Swatch"
-          src="img/Swatch 1.png"
+          src="/img/Swatch1.png"
         />
         <div
           class="absolute w-[679px] h-[680px] top-[138px] left-[461px] rotate-[140.56deg]"
