@@ -3,7 +3,7 @@
     <!-- Dot Grid Background -->
     <img
       class="absolute inset-0 w-full h-full object-cover opacity-20 z-0"
-      src="public/img/Dot grid.svg"
+      src="img/Dot grid.svg"
       alt="Dot grid"
     />
 
@@ -27,7 +27,7 @@
     <!-- Decorative Image -->
     <img
       class="absolute bottom-0 left-0 w-full h-[160px] sm:h-[200px] md:h-[240px] object-cover z-0"
-      src="public/img/Realistic Abstract 4 (4).png"
+      src="img/Realistic Abstract 4 (4).png"
       alt="Decorative"
     />
   </main>

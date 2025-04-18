@@ -8,12 +8,12 @@
         <img
           class="absolute w-full h-full object-cover"
           alt="Dot grid"
-          src="public/img/Dot grid.svg"
+          src="img/Dot grid.svg"
         />
         <img
           class="absolute w-full h-full object-cover"
           alt="Swatch"
-          src="/img/Swatch 1.png"
+          src="img/Swatch 1.png"
         />
         <div
           class="absolute w-[679px] h-[680px] top-[138px] left-[461px] rotate-[140.56deg]"

@@ -8,7 +8,7 @@
           <img
             class="absolute w-full h-[735px] top-0 left-0 object-cover"
             alt="Dot grid"
-            src="public/img/Dot grid.svg"
+            src="img/Dot grid.svg"
           />
 
           <div class="absolute w-[679px] h-[680px] top-[52px] left-[-688px] rotate-[140.56deg]">
@@ -20,17 +20,17 @@
           <img
             class="absolute w-[534px] h-[756px] top-0 left-0 object-cover"
             alt="Group"
-            src="public/img/Group.png"
+            src="img/Group.png"
           />
           <img
             class="absolute w-[404px] h-full top-20 right-0 object-cover"
             alt="Group"
-            src="public/img/1 (1).png"
+            src="img/1 (1).png"
           />
           <img
             class="absolute w-[534px] h-[756px] top-30 right-0 object-cover"
             alt="Group"
-            src="public/img/Group2 (1).png"
+            src="img/Group2 (1).png"
           />
 
           <!-- Footer -->
@@ -42,11 +42,11 @@
             >
               <!-- Social media icons -->
               <div class="flex items-center justify-center md:justify-start w-full md:w-auto gap-[30px] sm:gap-[40px] md:gap-[50px]">
-                <img class="w-[26px] h-[26px]" alt="Facebook" src="public/img/facebook.svg" />
-                <img class="w-[26px] h-[26px]" alt="Whatsapp" src="public/img/whatsapp.svg" />
-                <img class="w-[26px] h-[26px]" alt="Telephone" src="public/img/telephone-fill.svg" />
-                <img class="w-[26px] h-[26px]" alt="Instagram" src="public/img/instagram.svg" />
-                <img class="w-[26px] h-[26px]" alt="Linkedin" src="public/img/linkedin.svg" />
+                <img class="w-[26px] h-[26px]" alt="Facebook" src="img/facebook.svg" />
+                <img class="w-[26px] h-[26px]" alt="Whatsapp" src="img/whatsapp.svg" />
+                <img class="w-[26px] h-[26px]" alt="Telephone" src="img/telephone-fill.svg" />
+                <img class="w-[26px] h-[26px]" alt="Instagram" src="img/instagram.svg" />
+                <img class="w-[26px] h-[26px]" alt="Linkedin" src="img/linkedin.svg" />
               </div>
 
               <!-- Logo -->
@@ -57,7 +57,7 @@
                     <img
                       class="logo1-img"
                       alt="Logo1"
-                      src="public/img/logo1.png"
+                      src="img/logo1.png"
                     />
                   </div>
 
@@ -66,7 +66,7 @@
                     <img
                       class="logo2-img"
                       alt="Logo2"
-                      src="public/img/logo2.png"
+                      src="img/logo2.png"
                     />
                   </div>
                 </div>
@@ -82,7 +82,7 @@
                   <span class="text-white font-normal text-base leading-5 whitespace-nowrap">
                     About us and portfolio
                   </span>
-                  <img class="w-4 h-4" alt="Arrow" src="public/img/box-arrow-in-down.svg" />
+                  <img class="w-4 h-4" alt="Arrow" src="img/box-arrow-in-down.svg" />
                 </button>
               </div>
             </div>

@@ -10,12 +10,12 @@
             <img
               class="w-[1038px] h-[690px] absolute top-[165px] right-0 object-cover"
               alt="Realistic abstract"
-              src="public/img/Realistic Abstract 4 (3).png"
+              src="img/Realistic Abstract 4 (3).png"
             />
             <img
               class="absolute w-full h-[735px] top-[86px]"
               alt="Dot grid"
-              src="public/img/Dot grid.svg"
+              src="img/Dot grid.svg"
             />
             <div
               class="absolute w-[679px] h-[680px] top-[138px] left-[461px] rotate-[140.56deg]"
@@ -27,12 +27,12 @@
             <img
               class="absolute w-[710px] h-[769px] top-[0px] left-0"
               alt="Group"
-              src="public/img/Group (5).png"
+              src="img/Group (5).png"
             />
             <img
               class="absolute w-[374px] h-[501px] top-[355px] right-0"
               alt="Group"
-              src="public/img/Group2 (1).png"
+              src="img/Group2 (1).png"
             />
             <div
               class="absolute w-[381px] h-[282px] top-[376px] left-[1670px] rounded-[190.56px/140.99px] rotate-[-163.11deg] blur-[114.05px] [background:linear-gradient(32deg,rgba(141,85,163,1)_0%,rgba(53,32,61,1)_100%)]"
@@ -91,13 +91,13 @@
                         <img
                           class="absolute w-[18px] h-[17px] top-px left-px"
                           alt="Star background"
-                          src="public/img/Star icon.svg"
+                          src="img/Star icon.svg"
                         />
                         <div class="absolute top-0 left-0 w-5 h-5">
                           <img
                             class="absolute w-[18px] h-[17px] top-px left-px"
                             alt="Star"
-                            src="public/img/Star icon.svg"
+                            src="img/Star icon.svg"
                           />
                         </div>
                       </div>
@@ -124,12 +124,12 @@
         <img
           class="absolute w-[682px] h-px top-[86px] left-[1528px] object-cover"
           alt="Swatch"
-          src="public/img/Swatch 1.png"
+          src="img/Swatch 1.png"
         />
         <img
           class="w-[618px] h-[138px] absolute top-[717px] right-0 object-cover"
           alt="Realistic abstract"
-          src="public/img/Realistic Abstract 3 (2).png"
+          src="/Realistic Abstract 3 (2).png"
         />
       </div>
     </div>
@@ -142,28 +142,28 @@ const testimonials = [
   {
     id: 1,
     name: "Sophia Williams",
-    avatar: "/img/Avatar [1.0].svg",
+    avatar: "img/Avatar [1.0].svg",
     rating: 5,
     text: '"From design to development, every step of our e-commerce website build was handled with professionalism and expertise. Our online store is now "',
   },
   {
     id: 2,
     name: "Sophia Williams",
-    avatar: "/img/Avatar [1.0].svg",
+    avatar: "img/Avatar [1.0].svg",
     rating: 5,
     text: '"From design to development, every step of our e-commerce website build was handled with professionalism and expertise. Our online store is now user-friendly"',
   },
   {
     id: 3,
     name: "Sophia Williams",
-    avatar: "/img/Avatar [1.0].svg",
+    avatar: "img/Avatar [1.0].svg",
     rating: 5,
     text: '"From design to development, every step of our e-commerce website build was handled with professionalism and expertise. Our online store is now user-friendly, "',
   },
   {
     id: 4,
     name: "Sophia Williams",
-    avatar: "/img/Avatar [1.0].svg",
+    avatar: "img/Avatar [1.0].svg",
     rating: 5,
     text: '"From design to development, every step of our e-commerce website build was handled with professionalism and expertise. Our online store is now user-friendly, secure"',
   },

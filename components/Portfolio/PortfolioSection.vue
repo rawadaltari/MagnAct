@@ -40,7 +40,7 @@ const featuredProject = portfolioProjects.find((p) => p.featured)
     <!-- Background Effects -->
     <div class="absolute w-full h-full top-0 left-0 z-0">
       <div class="absolute w-full h-full bg-gradient-to-br from-[#1c1e21] to-[#0b0c0d]">
-        <img class="absolute w-full h-full object-cover" src="public/img/Dot grid.svg" alt="Dot grid" />
+        <img class="absolute w-full h-full object-cover" src="img/Dot grid.svg" alt="Dot grid" />
       </div>
 
       <!-- Purple Blurs -->
@@ -73,7 +73,7 @@ const featuredProject = portfolioProjects.find((p) => p.featured)
                 :key="link.icon"
                 class="flex items-center gap-1 text-[#d1d1d1]"
               >
-                <img v-if="link.icon === 'union'" src="public/img/Union.svg" class="w-4 h-4" alt="icon" />
+                <img v-if="link.icon === 'union'" src="img/Union.svg" class="w-4 h-4" alt="icon" />
                 <Icon v-else :name="link.icon" class="w-4 h-4" />
                 <span>{{ link.text }}</span>
               </div>
@@ -85,16 +85,16 @@ const featuredProject = portfolioProjects.find((p) => p.featured)
       <!-- Small Projects - Hidden on Mobile -->
       <div class="absolute inset-0 pointer-events-none hidden md:block">
         <div class="absolute left-[-15%] top-[25%] transform -translate-x-1/2 w-[200px] h-80 rounded-[23px] border border-[#464646e6] shadow-lg bg-cover bg-center pointer-events-auto"
-             style="background-image: linear-gradient(270deg, rgba(0,0,0,0.8), rgba(0,0,0,0)), url(/img/Project2.png)"></div>
+             style="background-image: linear-gradient(270deg, rgba(0,0,0,0.8), rgba(0,0,0,0)), url(img/Project2.png)"></div>
 
         <div class="absolute right-[-15%] top-[25%] transform translate-x-1/2 w-[200px] h-80 rounded-[23px] border border-[#464646e6] shadow-lg bg-cover bg-center pointer-events-auto"
-             style="background-image: linear-gradient(269deg, rgba(0,0,0,0), rgba(0,0,0,0.8)), url(/img/Project3.png)"></div>
+             style="background-image: linear-gradient(269deg, rgba(0,0,0,0), rgba(0,0,0,0.8)), url(img/Project3.png)"></div>
 
         <div class="absolute left-[-30%] bottom-[-80px] transform -translate-x-1/2 w-[150px] h-60 rounded-[23px] border border-[#464646e6] shadow-lg bg-cover bg-center pointer-events-auto"
-             style="background-image: linear-gradient(270deg, rgba(0,0,0,0.8), rgba(0,0,0,0)), url(/img/Project4.png)"></div>
+             style="background-image: linear-gradient(270deg, rgba(0,0,0,0.8), rgba(0,0,0,0)), url(img/Project4.png)"></div>
 
         <div class="absolute right-[-30%] bottom-[-80px] transform translate-x-1/2 w-[150px] h-60 rounded-[23px] border border-[#464646e6] shadow-lg bg-cover bg-center pointer-events-auto"
-             style="background-image: linear-gradient(269deg, rgba(0,0,0,0), rgba(0,0,0,0.8)), url(/img/Project5.png)"></div>
+             style="background-image: linear-gradient(269deg, rgba(0,0,0,0), rgba(0,0,0,0.8)), url(img/Project5.png)"></div>
       </div>
     </div>
 
@@ -120,7 +120,7 @@ const featuredProject = portfolioProjects.find((p) => p.featured)
     </div>
 
     <!-- Decorative Elements -->
-    <img class="absolute w-[300px] md:w-[537px] h-[437px] bottom-0 left-0 z-0" src="public/img/elements 1.png" alt="Decorative Element" />
-    <img class="absolute w-[300px] md:w-[537px] h-[437px] bottom-0 right-0 z-0" src="public/img/elements 2.png" alt="Decorative Element" />
+    <img class="absolute w-[300px] md:w-[537px] h-[437px] bottom-0 left-0 z-0" src="img/elements 1.png" alt="Decorative Element" />
+    <img class="absolute w-[300px] md:w-[537px] h-[437px] bottom-0 right-0 z-0" src="img/elements 2.png" alt="Decorative Element" />
   </div>
 </template>

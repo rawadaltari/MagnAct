@@ -33,7 +33,7 @@
     
     <div class="absolute bottom-0 w-full pointer-events-none">
       <img 
-        src="/img/pic (1).png" 
+        src="img/pic (1).png" 
         alt="Crystal" 
         class="w-full max-w-6xl mx-auto transition-all duration-300"
         :class="{'scale-95': isHovered, 'scale-100': !isHovered}"

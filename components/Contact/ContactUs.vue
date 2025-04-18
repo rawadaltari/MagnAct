@@ -9,7 +9,7 @@
           <img
             class="absolute w-full h-[735px]"
             alt="Dot grid"
-            src="public/img/Dot grid.svg"
+            src="/Dot grid.svg"
           />
         </div>
 
@@ -25,12 +25,12 @@
         <img
           class="absolute h-[769px] top-0 left-0"
           alt="Group"
-          src="public/img/Group (5).png"
+          src="img/Group (5).png"
         />
         <img
           class="absolute h-[769px] top-0 right-0"
           alt="Group"
-          src="public/img/Group2 (1).png"
+          src="img/Group2 (1).png"
         />
         <!-- Contact Us Section -->
         <section
@@ -76,24 +76,24 @@
                 <img
                   class="w-[26px] h-[26px] object-cover"
                   alt="UAE"
-                  src="public/img/united-arab-emirates 1.png"
+                  src="img/united-arab-emirates 1.png"
                 />
                 <div class="relative w-3 h-6 mx-2">
                   <img
                     class="absolute w-3 h-3 top-0 left-0"
                     alt="Icon up"
-                    src="public/img/Up bold.png"
+                    src="img/Up bold.png"
                   />
                   <img
                     class="absolute w-3 h-3 top-3 left-0"
                     alt="Icon down"
-                    src="public/img/Down.png"
+                    src="img/Down.png"
                   />
                 </div>
                 <img
                   class="w-px h-[34px] mx-2"
                   alt="Line"
-                  src="public/img/Line.png"
+                  src="img/Line.png"
                 />
                 <span class="text-[#a7a7a7] font-body-16 mr-2">+971</span>
                 <input

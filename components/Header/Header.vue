@@ -9,14 +9,14 @@
           <div class="w-10 h-10 sm:w-[42px] sm:h-[42px] rounded-full overflow-hidden flex items-center justify-center bg-gradient-to-b from-[#6c6c6c26] to-transparent shadow">
             <img
               class="w-6 h-6 sm:w-[26px] sm:h-[30px] object-contain"
-              src="/img/logo1.png"
+              src="img/logo1.png"
               alt="Logo"
             />
           </div>
           <div class="w-20 h-5 sm:w-[86px] sm:h-[21px]">
             <img
               class="w-full h-full object-contain"
-              src="/img/logo2.png"
+              src="img/logo2.png"
               alt="MagnAct"
             />
           </div>
